@@ -1,6 +1,5 @@
 Lezione 2: HTML e Esercizio Viaggo a Londra
 ---
-===
 Creazione pagina HTML tema Viaggio a Londra
 ---
 1. Creare repository su github
